@@ -1,0 +1,36 @@
+.container{
+  margin-top: 10px;
+}
+.card{
+  margin: 0px;
+}
+
+.btn-primary {
+  background-color: #ff9900; 
+  border-color: #ff9900;
+}
+
+
+.modal-title {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+#modalImage {
+  display: block;
+  margin: 0 auto;
+  max-height: 300px; 
+  max-width: 100%; 
+}
+
+.modal-body {
+  background-color: #f7f7f7;
+}
+
+.modal-title1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+}
